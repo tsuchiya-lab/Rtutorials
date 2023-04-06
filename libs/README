@@ -1,0 +1,4 @@
+The following files are built from openssl@1.1 by macOS 10.13
+
+libssl.1.1.dylib
+libcrypto.1.1.dylib
